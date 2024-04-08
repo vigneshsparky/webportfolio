@@ -1,0 +1,9 @@
+.AboutMe {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Para {
+  padding: 0px 100px 0px 100px;
+}
